@@ -1,8 +1,0 @@
-<RCC>
-  <qresource prefix="/bilder">
-    <file>info.bmp</file>
-    <file>dateiNeu.bmp</file>
-    <file>dateiOeffnen.bmp</file>
-    <file>dateiSpeichern.bmp</file>
-  </qresource>
-</RCC>
